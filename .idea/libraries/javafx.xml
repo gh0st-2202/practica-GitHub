@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="javafx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../IntellyJ-IDEA/JavaFX/lib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../IntellyJ-IDEA/JavaFX/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../IntellyJ-IDEA/JavaFX/lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../IntellyJ-IDEA/JavaFX/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../IntellyJ-IDEA/JavaFX/lib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../IntellyJ-IDEA/JavaFX/lib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../IntellyJ-IDEA/JavaFX/lib/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../IntellyJ-IDEA/JavaFX/lib/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../IntellyJ-IDEA/JavaFX/lib/jdk.jsobject.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../IntellyJ-IDEA/JavaFX/lib/jfx.incubator.input.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../IntellyJ-IDEA/JavaFX/lib/jfx.incubator.richtext.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
